@@ -1,0 +1,27 @@
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 24px;
+}
+
+.loader {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 60px;
+    color: #1a73e8;
+}
+
+.empty {
+    text-align: center;
+    color: #777;
+    font-size: 16px;
+    margin-top: 40px;
+}
+
+.grid {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin-top: 20px;
+}
